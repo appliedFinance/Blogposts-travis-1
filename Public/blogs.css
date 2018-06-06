@@ -1,0 +1,9 @@
+* {
+	box-sizing: border-box;
+}
+
+.stuff {
+	padding: 30px;
+	border: 1px solid blue;
+}
+
