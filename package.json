@@ -14,7 +14,10 @@
     "body-parser": "^1.15.2",
     "express": "^4.12.4",
     "morgan": "^1.7.0",
-    "uuid": "^2.0.3"
+    "uuid": "^2.0.3",
+    "chai": "^3.5.0",
+    "chai-http": "^4.0.0",
+    "mocha": "^4.0.1"
   },
   "repository": {
     "type": "git",
@@ -25,5 +28,10 @@
   "bugs": {
     "url": "https://github.com/appliedFinance/BlogPosts-api/issues"
   },
-  "homepage": "https://github.com/appliedFinance/BlogPosts-api#readme"
+  "homepage": "https://github.com/appliedFinance/BlogPosts-api#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "mocha": "^5.2.0"
+  }
 }
