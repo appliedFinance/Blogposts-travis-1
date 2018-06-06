@@ -19,11 +19,11 @@ describe('BlogPost API on travis 1', function() {
 				expect(result).to.be.json;
 				expect(result.body).to.be.a('array');
 				expect(result.body.length).to.be.above(0);
-				res.body.forEach(function(item) {
+				result.body.forEach(function(item) {
 					expect(item).to.be.a('object');
-					expect(item).to.have.all.keys(
-							'id', 'title', 'content', 'author', 'created')
-				});			});
+					expect(item).to.have.all.keys('id', 'title', 'content', 'author', 'created') 
+				});			
+			});
 	});
 
 
