@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: WCWe1ws+2ZFwj4xPGUTvJrkGKgG0xoj5k9hEWLQfW2yMQPI5e91oybvWKxLfe7bFGucsxU+z+wqN8sLIAFv8jXi5WnUxaO8lIlgeIE498JAYXwPD9avslXKeYFDvUWlippGFo5v15PFww/R9Sc+GvDG33T/nf+oOgRkNetv/QcGnPDbo/pdWuEZL1amfuJgO6+/VgPsWwCTYojdxXoYjSq1Oy7m9F5Z/oXHB2l8eXzYOjwo36Q6bPaU2iDZgPaEESaaSYuM+E3FicM27lpaar0cv78743aw0mwPTp9oCb9+saqZ5e91bbTKDnwuqihMCjwJsHuL+a3AVPYfDi+VLwYkaivEpwomeyK/DxBI+w6icGcc0zMSZHoezlxTqOhoEwdtJUnmA5tc1w/mTUq9K0WZaho1n/WSa5eTVbfAu59c2/GueuK/u2XIwAihowIAeT4aOjjO0994TRatbXmJF1p2TvQoNUzTS+TngmghtWlnfLsGovk7zWa3X6QTAlgqu/F1vDU/jw9DK4XkfmD6Pi7VUJbbXGS4H0u6Z+dFVz0z9vci8qY3xWZrOHnBL9XuWLb53xxK6qxmFzEi91L1Fq4JE8yF6tos0i/zqPWOseykx/W3V8wYR79tmmvNYLT/159bxeR2/QxpVEb68mM8NsM4EmHTVl0bUWlB2ifxZxAE=
-  app: cryptic-falls-97615 
+  app: enigmatic-beach-92081 
   on:
     repo: appliedFinance/Blogposts-travis-1
